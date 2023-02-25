@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h3>
   🚀 Principal Stack
 </h3> 
