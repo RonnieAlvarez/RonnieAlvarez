@@ -28,7 +28,8 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
-<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="Sass Badge">
+  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="Sass Badge">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase Badge">
 </p>
 </br>
 
