@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge" alt="Figma Badge">
   <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=for-the-badge" alt="Sass Badge">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase Badge">
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge" alt="Slack Badge">
 </p>
 </br>
 
