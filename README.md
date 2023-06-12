@@ -39,6 +39,7 @@
 - 🔭 I’m currently working by my own
 <div align="center">
 DevOps no es una herramienta o tecnología específica, sino una cultura y filosofía en constante evolución que promueve un mejor desarrollo de aplicaciones en menos tiempo y la rápida prestación de servicios de alta calidad
+  
 </div>  
 <div align="center">
   <a href = "mailto:ronnie.alvarezc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
