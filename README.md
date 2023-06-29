@@ -11,9 +11,7 @@
 <h4>Programming Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/VBA-Excel-%23107840">
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/VBA-Excel-%231C693F?style=flat-square&logo=excel">
 </p>
 <h4>Frontend Development</h4>
 <p>
@@ -40,8 +38,9 @@
 </p>
 <h4>Dbs</h4>
 <p>
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=for-the-badge" alt="Mongodb Badge">
+   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="Mongodb Badge">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase Badge">
+   <img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white" alt="Mongoose Badge">
 </p>
 <h4>Tools & Technologies</h4>
 <p>
