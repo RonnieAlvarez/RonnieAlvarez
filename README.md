@@ -89,13 +89,13 @@
   <img src="https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=for-the-badge" alt="Red Hat Badge">
 </p>
 <p>
-<h4>Networking </h4>
 </p>
 <h4>Remote Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge" alt="AnyDesk Badge">
   <img src="https://img.shields.io/badge/Supremo-0078D6?logo=Supremo&logoColor=fff&style=for-the-badge" alt="Supremo Badge">
 </p>
+<h4>Networking </h4>
 <p>
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Badge">
   <img src="https://img.shields.io/badge/CCNA-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="CCNA Badge">
