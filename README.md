@@ -104,7 +104,7 @@
   <img src="https://img.shields.io/badge/Wireless Lans-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Wireless Lans Badge">
 </p>
 
-- 🌱 I’m currently learning BackEnd MERN Stack in CoderHouse
+- 🌱 I’m currently finishining BackEnd MERN Stack in CoderHouse
 - 🔭 I’m currently working by my own
 <div align="center">
 <p>DevOps no es una herramienta o tecnología específica, sino una cultura y filosofía en constante evolución que promueve un mejor desarrollo de aplicaciones en menos tiempo y la rápida prestación de servicios de alta calidad</p
