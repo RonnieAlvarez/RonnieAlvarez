@@ -97,7 +97,11 @@
   <img src="https://img.shields.io/badge/Supremo-0078D6?logo=Supremo&logoColor=fff&style=for-the-badge" alt="Supremo Badge">
 </p>
 <p>
-<img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Badge">
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Badge">
+  <img src="https://img.shields.io/badge/CCNA-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="CCNA Badge">
+  <img src="https://img.shields.io/badge/CCNP-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="CCNP Badge">
+  <img src="https://img.shields.io/badge/IT Essentials-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="IT Essentials Badge">
+  <img src="https://img.shields.io/badge/Wireless Lans-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Wireless Lans Badge">
 </p>
 
 - 🌱 I’m currently learning BackEnd MERN Stack in CoderHouse
