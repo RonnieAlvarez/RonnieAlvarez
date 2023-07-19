@@ -90,10 +90,11 @@
 </p>
 <p>
 </p>
-<h4>Remote Tools</h4>
+<h4>Remote Desktop Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge" alt="AnyDesk Badge">
   <img src="https://img.shields.io/badge/Supremo-0078D6?logo=Supremo&logoColor=fff&style=for-the-badge" alt="Supremo Badge">
+  <img src="https://img.shields.io/badge/TeamViewer-004680?logo=teamviewer&logoColor=fff&style=for-the-badge" alt="TeamViewer Badge">
 </p>
 <h4>Networking </h4>
 <p>
