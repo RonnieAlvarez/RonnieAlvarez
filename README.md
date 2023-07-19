@@ -94,7 +94,7 @@
 <h4>Remote Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge" alt="AnyDesk Badge">
-  
+  <img src="https://img.shields.io/badge/Supremo-EF443B?logo=Supremo&logoColor=fff&style=for-the-badge" alt="Supremo Badge">
 </p>
 <p>
 <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Badge">
