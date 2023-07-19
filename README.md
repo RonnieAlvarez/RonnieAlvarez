@@ -42,8 +42,19 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase Badge">
    <img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white" alt="Mongoose Badge">
 </p>
+<h4>Documenting Tools</h4>
+<P>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge" alt="Swagger Badge">
+</P>
+<h4>Testing Tools (TDD/BDD)</h4>
+<P>
+<img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=for-the-badge" alt="Mocha Badge">
+<img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge" alt="Chai Badge">
+
+</P>
 <h4>Tools & Technologies</h4>
 <p>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge" alt="VirtualBox Badge">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="MarkDown Badge">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -70,8 +81,20 @@
 
 </p>
 </br>
+<h4>OS  
+</h4>
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=for-the-badge" alt="Windows Badge">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" alt="Ubuntu Badge">
+  <img src="https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=for-the-badge" alt="Red Hat Badge">
+</p>
 <p>
 <h4>Networking </h4>
+</p>
+<h4>Remote Tools</h4>
+<p>
+  <img src="https://img.shields.io/badge/AnyDesk-EF443B?logo=anydesk&logoColor=fff&style=for-the-badge" alt="AnyDesk Badge">
+  
 </p>
 <p>
 <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco Badge">
