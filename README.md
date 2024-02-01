@@ -2,16 +2,20 @@
   🚀 Principal Stack
 </h3> 
 <p>
+  <img src="https://img.shields.io/badge/C%23-4B32C3?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/DotNet-4B32C3?style=for-the-badge" alt="DotNet  Badge">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
 <h4>Programming Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/VBA%20Excel-47A248?style=for-the-badge" alt="VBA Excel Badge">
+   <img src="https://img.shields.io/badge/C%23-4B32C3?style=for-the-badge&logo=csharp&logoColor=white">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img src="https://img.shields.io/badge/VBA%20Excel-47A248?style=for-the-badge" alt="VBA Excel Badge">
 </p>
 <h4>Frontend Development</h4>
 <p>
@@ -37,11 +41,12 @@
   <img src="https://img.shields.io/badge/NodeMailer-%232C8EBB?style=for-the-badge" alt="NodeMailer Badge">
 
 </p>
-<h4>Dbs</h4>
+<h4>Databases</h4>
 <p>
-   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="Mongodb Badge">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="Mongodb Badge">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase Badge">
-   <img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white" alt="Mongoose Badge">
+  <img src="https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=Mongoose&logoColor=white" alt="Mongoose Badge">
 </p>
 <h4>Documenting Tools</h4>
 <P>
