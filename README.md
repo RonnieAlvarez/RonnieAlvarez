@@ -13,7 +13,7 @@
 
 <h4>Programming Languages</h4>
 <p>
-  ![pcep-30-02-pcep-certified-entry-level-python-progra](https://github.com/RonnieAlvarez/ronnieAlvarez/assets/109872028/e2ff54b1-17d7-4656-a944-eeef824053c3)
+ [ ![pcep-30-02-pcep-certified-entry-level-python-progra](https://github.com/RonnieAlvarez/ronnieAlvarez/assets/109872028/e2ff54b1-17d7-4656-a944-eeef824053c3)](https://www.credly.com/badges/584ff945-b10b-437c-a0c6-5d8ea1296107/public_url)
    <img src="https://img.shields.io/badge/C%23-4B32C3?style=for-the-badge&logo=csharp&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/VBA%20Excel-47A248?style=for-the-badge" alt="VBA Excel Badge">
