@@ -13,9 +13,7 @@
 
 <h4>Programming Languages</h4>
 <p>
-
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="584ff945-b10b-437c-a0c6-5d8ea1296107" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <img src="https://img.shields.io/badge/C%23-4B32C3?style=for-the-badge&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-275277?style=for-the-badge&logo=python&logoColor=DEB850">
    <img src="https://img.shields.io/badge/C%23-4B32C3?style=for-the-badge&logo=csharp&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/VBA%20Excel-47A248?style=for-the-badge" alt="VBA Excel Badge">
